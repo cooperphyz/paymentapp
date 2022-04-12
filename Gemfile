@@ -68,5 +68,6 @@ gem 'pretender', '~> 0.3.4'
 gem 'pundit', '~> 2.1'
 gem 'sidekiq', '~> 6.2'
 gem 'sitemap_generator', '~> 6.1'
+gem 'stripe', '~> 5.49'
 gem 'whenever', require: false
 gem 'responders', github: 'heartcombo/responders', branch: 'main'
